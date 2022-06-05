@@ -40,4 +40,5 @@ return  a * b
 *** 
 ## Languages 
 * Russian - native speaker 
+* Ukrainian - Intermediate
 * English - A1 
