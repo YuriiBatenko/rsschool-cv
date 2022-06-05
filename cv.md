@@ -39,5 +39,5 @@ return  a * b
 * In the process of learning the javascript course from RS School in the process 
 *** 
 ## Languages 
-
+* Russian - native speaker 
 * English - A1 
