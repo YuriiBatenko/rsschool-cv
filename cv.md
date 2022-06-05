@@ -36,7 +36,7 @@ return  a * b
 * Offline courses "Software testing" from the IT company SolarLab
 * Video course "Software testing" on Alexey Marshal's YouTube channel
 * Video course "Software testing" on Sergey Glivinsky's Start Up youtube channel
-*  
+* In the process of learning the javascript course from RS School in the process 
 *** 
 ## Languages 
 
