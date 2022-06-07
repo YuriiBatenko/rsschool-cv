@@ -1,5 +1,4 @@
 # Yurii Batenko 
-![Photo](D:\Photo.png "Фото")
 ***
 ## Contact information: 
 ### Phone: +7 978 075-49-57 
